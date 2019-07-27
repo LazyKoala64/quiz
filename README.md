@@ -1,2 +1,2 @@
 # quiz
-a quiz game
+a quiz game made with electron
